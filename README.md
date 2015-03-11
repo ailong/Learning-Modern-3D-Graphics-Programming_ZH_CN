@@ -11,5 +11,5 @@ http://www.arcsynthesis.org/gltut/index.html
 
 了解如何充分利用硬件是一个困难的挑战,特别是对于一个新的图形学和图形渲染。
 
-#为什么需要读本书？
+#为什么读本书？
 
