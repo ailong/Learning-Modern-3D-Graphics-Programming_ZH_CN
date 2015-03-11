@@ -13,4 +13,3 @@ http://www.arcsynthesis.org/gltut/index.html
 
 #为什么需要读本书？
 
-待更新……
