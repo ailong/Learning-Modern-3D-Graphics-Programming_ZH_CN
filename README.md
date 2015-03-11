@@ -1,7 +1,6 @@
 #现代三维图形程序设计学习
 
-#《Learning Modern 3D Graphics Programming》
-中文译文版。
+《Learning Modern 3D Graphics Programming》中文译文版。
 
 原作者：Jason L. McKesson。
 
